@@ -1,0 +1,10 @@
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Main_Form.resources
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+c:\users\аня\documents\visual studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Аня\Documents\Visual Studio 2017\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
